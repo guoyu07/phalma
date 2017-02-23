@@ -1,0 +1,17 @@
+<style>
+    .manaphp_copyright {
+        position: fixed;
+        bottom: 200px;
+        text-align: center;
+        width: 100%;
+    }
+
+    .manaphp_copyright a {
+        color: blue;
+    }
+
+</style>
+
+<div class="manaphp_copyright">
+    &copy; {{ $year }}   <a href="https://github.com/manaphp/phalma">Phalma</a> powered by <a href="https://github.com/manaphp" style="font-size: small">ManaPHP</a>
+</div>
