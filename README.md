@@ -1,6 +1,8 @@
 # Phalcon最佳实践
 
 ## Debugger功能
+## Sword模板引擎支持
+Sword是一种类似于Laravel的Blade的引擎
 
 ##事件全局监听
 Phalcon默认不支持全局监听功能的，每个实例的的事件监听需要分别处理，这样不利用功能的解耦.
